@@ -1,147 +1,145 @@
 <div align="center">
-<img src="https://github.com/account" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Ankith, Pursuing BE in Artificial Intelligence and Data Science</div>  
-  
+# 👋 Hey, I'm Ankith
 
-- 🔭 I’m currently working on AI Based Fruit Freshness and Expiry Prediction System  
-  
+### AI & Data Science Student | Aspiring ML Engineer
 
-- 🌱 I’m currently learning AI, ML, Data Science, Data Analytics   
-  
+Building practical projects with **AI, Machine Learning, Data Science, and Python**.
 
-- ❓ Ask me about anything related to AI & ML, Data Science   
-  
+[![GitHub](https://img.shields.io/badge/GitHub-Ankith922-181717?style=for-the-badge&logo=github)](https://github.com/Ankith922)
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github)](https://github.com/Ankith922?tab=repositories)
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🧑‍💻 About Me
 
+- 🎓 Pursuing **BE in Artificial Intelligence and Data Science**
+- 🔭 Working on an **AI-Based Food Freshness & Expiry Prediction System**
+- 🌱 Learning and building with **AI/ML, Data Science, Data Analytics, and Python**
+- 🛠️ Interested in turning real-world problems into practical software projects
+- 💬 Happy to connect about AI, machine learning, data science, and student projects
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🧰 Tech Stack
 
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,php,sql" alt="Programming languages" />
+</p>
 
+### AI, Data Science & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,fastapi,git,github,mysql,arduino,raspberrypi" alt="AI and development tools" />
+</p>
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+**Also exploring:** Scikit-learn, Pandas, NumPy, Jupyter Notebook, Power BI, Hadoop, XAMPP, and Docker.
 
-</td></tr></table>  
+---
 
-<br/>  
+## 🚀 Featured Projects
 
+> A few projects I'm building or exploring. Open a project repository for its implementation, setup instructions, and progress.
 
-## Connect with me  
-<a href="https://github.com/https://github.com/Ankith922" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ankith-29031a324" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/ankithk922" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/ankithk922/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@https://youtube.com/@ankith8634?si=twg--ZSms892ugTP" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍎 AI Food Freshness Predictor</h3>
+      A freshness and shelf-life prediction concept combining fruit/vegetable images with environmental sensor readings.
+      <br/><br/>
+      <b>Focus:</b> Computer Vision · Machine Learning · IoT
+      <br/>
+      <a href="https://github.com/Ankith922?tab=repositories">Browse repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🅿️ RFID Smart Parking System</h3>
+      A parking management project exploring RFID-based vehicle identification and a web dashboard for parking status.
+      <br/><br/>
+      <b>Focus:</b> Arduino · RFID · PHP · MySQL
+      <br/>
+      <a href="https://github.com/Ankith922?tab=repositories">Browse repositories →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 NexaAI — Knowledge Assistant</h3>
+      A chatbot concept for general questions and answering questions using uploaded documents.
+      <br/><br/>
+      <b>Focus:</b> Python · FastAPI · RAG · LLMs
+      <br/>
+      <a href="https://github.com/Ankith922?tab=repositories">Browse repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Data & ML Mini Projects</h3>
+      Hands-on projects such as dashboards, data analysis, recommendation systems, and prediction models.
+      <br/><br/>
+      <b>Focus:</b> Python · Pandas · Scikit-learn · Visualization
+      <br/>
+      <a href="https://github.com/Ankith922?tab=repositories">Browse repositories →</a>
+    </td>
+  </tr>
+</table>
 
-<br/>  
+---
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ankith922&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ankith922&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankith922&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats for Ankith922" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankith922&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</div>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Ankith922" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <img src="https://streak-stats.demolab.com?user=Ankith922&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankith922&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</div>
+
+---
+
+## 🏆 Contributions & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankith922&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+</div>
+
+- 📦 **Repositories:** [View all repositories](https://github.com/Ankith922?tab=repositories)
+- ⭐ **Stars received:** Shown in the GitHub statistics card above
+- 🔥 **Contribution streak:** Shown in the streak card above
+- 🗓️ **Contribution activity:** Explore the graph above or [view my GitHub contributions](https://github.com/Ankith922)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Ankith922">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankith-29031a324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/ankithk922">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.instagram.com/ankithk922/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@ankith8634">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Ankith922&style=flat-square&color=blueviolet)
+
+*“Learning by building, improving one project at a time.”*
+
+</div>
